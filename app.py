@@ -6,6 +6,7 @@ import string
 import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
+st.html("""<meta name="google-site-verification" content="1SSmxz-2TwDLSmx6Fw2kL6U-6O7m1xUj-a7V6l-c2X4" />""")
 
 # ==============================================================================
 # --- 1. PAGE CONFIGURATION & GLOBAL STYLING ---
