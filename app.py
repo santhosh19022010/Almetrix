@@ -11,6 +11,7 @@ import streamlit.components.v1 as components
 # --- 1. PAGE CONFIGURATION & GLOBAL STYLING ---
 # ==============================================================================
 st.set_page_config(
+        html="""<meta name="google-site-verification" content="google49f81e0e333d2cf5.html" />""",
     page_title="Almetrix | 150+ Advanced Utility Suite",
     page_icon="⚡",
     layout="wide",
